@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Item One",
+    "category": "Category A",
+    "price": 9.99,
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Item Two",
+    "category": "Category B",
+    "price": 19.99,
+    "inStock": false
+  },
+  {
+    "id": 3,
+    "name": "Item Three",
+    "category": "Category C",
+    "price": 29.99,
+    "inStock": true
+  },
+  {
+    "id": 4,
+    "name": "Item Four",
+    "category": "Category A",
+    "price": 39.99,
+    "inStock": false
+  },
+  {
+    "id": 5,
+    "name": "Item Five",
+    "category": "Category B",
+    "price": 49.99,
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "name": "Item Six",
+    "category": "Category C",
+    "price": 59.99,
+    "inStock": false
+  }
+]
